@@ -1,0 +1,13 @@
+.container{
+  background-color: fff;
+}
+
+#table{
+  margin-left: 1rem;
+}
+
+#quote{
+  font-size: 15px;
+  margin-left: 1rem;
+  padding: 25px;
+}

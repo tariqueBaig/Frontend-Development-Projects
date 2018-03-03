@@ -1,0 +1,5 @@
+/*Now you've added it. type git status to check on terminal*/
+/* push it now using git push main master.. If you want to see those green files, you have to type git status again after adding them. like this */
+/*Wait, if you are looking for those green colored files, you have to check that using git status, after you do git add*/
+once you have commited all files, the git status will show nothing to commit because the files are added onyour git repo. go git commit means,
+add everyithng to the git repo. after commiting, you just push the changs using git push main master
